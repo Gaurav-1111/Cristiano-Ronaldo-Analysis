@@ -5,7 +5,7 @@ Cristiano Ronaldo is one of the greatest football players of all time. This proj
 By using data analysis techniques and an interactive dashboard, we visualize key statistics about his goals, assists, and other performance metrics across various competitions, seasons, and venues.  
 The raw dataset undergoes the process to cleaned. The various pyhton libraries uses such as pandas, matplotlib, seaborn or plotly for data visualisation and stremlit use for hosting the analysis dashboard.  
 
-*** For Dashboard Analysis Click Here***--https://www.canva.com/design/DAGbaH9PP2k/whNRJkidqSIX4LHd2sQ5Xg/watch
+*** To Check The Dashboard Click Here***--https://www.canva.com/design/DAGbaH9PP2k/whNRJkidqSIX4LHd2sQ5Xg/watch
 
 # Interactive Dashboard
 An interactive dashboard is built using Streamlit to explore the insights dynamically. The dashboard provides a user-friendly interface to:  
