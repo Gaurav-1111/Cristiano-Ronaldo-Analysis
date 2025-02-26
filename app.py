@@ -31,7 +31,7 @@ sections = ["Introduction",
 selections = st.sidebar.radio('Navigate to', sections)
 
 def load_data():
-    df=pd.read_csv(r"D:\Data Analysis Project\Python Project\CR - EDA\cleaned_data.csv")
+    df=pd.read_csv(r"cleaned_data.csv")
     return df
 
 df=load_data()
