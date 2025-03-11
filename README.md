@@ -7,7 +7,8 @@ The raw dataset undergoes the process to cleaned. The various pyhton libraries u
 
 *** To Check The Dashboard Click Here***--https://cristiano-ronaldo-analysis-project.streamlit.app/
 
-# Some Images 
+📷 Screenshots 🖼️ Images of Dashboard in action!
+
 ![image](https://github.com/user-attachments/assets/f419a8e4-c27b-4d49-b598-c189302373a3)
 ![image](https://github.com/user-attachments/assets/ac5be3c6-e3b1-42e5-80c9-f1f6d26fc140)
 
